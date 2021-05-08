@@ -1,4 +1,4 @@
-<img src="https://github.com/abhayanigam/Learning_In_C_Language/blob/main/c.png" align="right" width="70" align="right" />
+<img src="https://github.com/abhayanigam/Learning_In_C_Language/blob/main/c.png" align="right" width="200" align="right" />
 
 # Learning In C Language
 
