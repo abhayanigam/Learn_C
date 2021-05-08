@@ -21,7 +21,7 @@ C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis M
 - The Visual Studio Code Editor must be installed in the system.  [Click here to download ](https://visualstudio.microsoft.com/downloads/)
 - Now Setup your Visual Studio Code for windows click here to visit website for setup --> [Link 1](https://www.javatpoint.com/how-to-run-a-c-program-in-visual-studio-code) |   [Link 2](https://ludwiguer.medium.com/configure-visual-studio-code-to-compile-and-run-c-c-3cef24b4f690) 
 
-- **Online Compiler **
+- Online Compiler
     - [onlinegdb](https://www.onlinegdb.com/)
     - [programiz c compiler](https://www.programiz.com/c-programming/online-compiler/)
 
