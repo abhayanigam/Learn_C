@@ -1,3 +1,3 @@
-<img src="https://github.com/abhayanigam/Learning_In_C_Language/blob/main/c.png" align="right" style="max-width: 10%"/>
+<img src="https://github.com/abhayanigam/Learning_In_C_Language/blob/main/c.png" align="right" width="70" height=""/>
 
 # Learning In C Language
