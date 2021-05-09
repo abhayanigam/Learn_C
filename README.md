@@ -15,8 +15,8 @@ C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis M
 <img src="https://github.com/abhayanigam/Learning_In_C_Language/blob/main/DennisRitchie.png"/>
 </div>
 
-# Steps to Learn C <a name="top"></a>
-## Step 1 ( Install IDE Or Source Code Editor ( VS Code ) )
+# Steps to Learn C 
+## Step 1 ( Install IDE Or Source Code Editor ( VS Code ) )  
 > Software used to create and execute a C Programs :
 - The Visual Studio Code Editor must be installed in the system.  [Click here to download ](https://visualstudio.microsoft.com/downloads/)
 - Now Setup your Visual Studio Code for windows click here to visit website for setup --> [Link 1](https://www.javatpoint.com/how-to-run-a-c-program-in-visual-studio-code) |   [Link 2](https://ludwiguer.medium.com/configure-visual-studio-code-to-compile-and-run-c-c-3cef24b4f690) 
@@ -30,9 +30,7 @@ C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis M
     - [""]()
     - [""]()
 
-[go to top](#top)
-
-## Step 2 ( Go Through The Chapters And Wractice Well )
+## Step 2 ( Go Through The Chapters And Wractice Well )  <a name="top"></a>
    - [Ch-1 Header Files](https://github.com/abhayanigam/Learning_In_C_Language/tree/main/Chapters_In_C/Ch_1_HeaderFiles)
    - [Ch-2 Hello World](https://github.com/abhayanigam/Learning_In_C_Language/tree/main/Chapters_In_C/Ch_2_HelloWorld)
    - [Ch-3 Variables](https://github.com/abhayanigam/Learning_In_C_Language/tree/main/Chapters_In_C/Ch_3_Variables)
@@ -66,6 +64,8 @@ C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis M
    - [Miscellaneous 1](https://github.com/abhayanigam/Learning_In_C_Language/tree/main/Chapters_In_C/EscapeSequence)
    - [Miscellaneous 2](https://github.com/abhayanigam/Learning_In_C_Language/tree/main/Chapters_In_C/Floating-PointTypes)
    - [Miscellaneous 3](https://github.com/abhayanigam/Learning_In_C_Language/tree/main/Chapters_In_C/IntegerTypes)
+
+[go to top](#top)
 
 ## Step 3 ( For In Depth Learning Must Visit These Sites )
    - [Geeksforgeeks](https://www.geeksforgeeks.org/c-programming-language/)
