@@ -16,7 +16,8 @@ C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis M
 </div>
 
 # Steps to Learn C 
-## Step 1 ( Install IDE Or Source Code Editor ( VS Code ) )  
+## Step 1 
+<b>( Install IDE Or Source Code Editor ( VS Code ) )</b>
 > Software used to create and execute a C Programs :
 - The Visual Studio Code Editor must be installed in the system.  [Click here to download ](https://visualstudio.microsoft.com/downloads/)
 - Now Setup your Visual Studio Code for windows click here to visit website for setup --> [Link 1](https://www.javatpoint.com/how-to-run-a-c-program-in-visual-studio-code) |   [Link 2](https://ludwiguer.medium.com/configure-visual-studio-code-to-compile-and-run-c-c-3cef24b4f690) 
@@ -30,7 +31,12 @@ C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis M
     - [""]()
     - [""]()
 
-## Step 2 ( Go Through The Chapters And Wractice Well )  <a name="top"></a>
+## Step 2 
+><b>( Go Through The Chapters And Practice Well )</b>  <a name="top"></a>
+
+<img src="https://github.com/abhayanigam/Learn_Python_Programming/blob/main/Assets/content.png" align="right" width="200" align="right" />
+
+## Table Of Contents 
    - [Ch-1 Header Files](https://github.com/abhayanigam/Learning_In_C_Language/tree/main/Chapters_In_C/Ch_1_HeaderFiles)
    - [Ch-2 Hello World](https://github.com/abhayanigam/Learning_In_C_Language/tree/main/Chapters_In_C/Ch_2_HelloWorld)
    - [Ch-3 Variables](https://github.com/abhayanigam/Learning_In_C_Language/tree/main/Chapters_In_C/Ch_3_Variables)
@@ -67,12 +73,17 @@ C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis M
 
 [go to top](#top)
 
-## Step 3 ( For In Depth Learning Must Visit These Sites )
+<img src="https://www.flaticon.com/svg/vstatic/svg/3652/3652314.svg?token=exp=1620548286~hmac=987a8592df297af5f4add68f30ac7609" align="right" width="120" align="right" />
+
+## Step 3 
+><b>( For In Depth Learning Must Visit These Sites )</b>
    - [Geeksforgeeks](https://www.geeksforgeeks.org/c-programming-language/)
    - [Programiz](https://www.programiz.com/c-programming)
    - [Studytonight](https://www.studytonight.com/c/)
    - [Btech Smart Class](http://www.btechsmartclass.com/c_programming/introduction-to-c-programming.html)
-   
+
+<img src="https://www.flaticon.com/svg/vstatic/svg/3306/3306710.svg?token=exp=1620548442~hmac=3f197ebd2f51e35329221b3cb23b4a45" align="right" width="100" align="right" />
+
 ## Step 4
->  <h3><b>Keep Practicing</b></h3> 
+> <b>Keep Practicing</b>
  - To Practice Basice Programs --> [Click here](https://github.com/abhayanigam/Learning_In_C_Language/tree/main/C_basic_programs)
