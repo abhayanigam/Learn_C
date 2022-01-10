@@ -21,6 +21,7 @@ C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis M
 > Software used to create and execute a C Programs :
 - The Visual Studio Code Editor must be installed in the system.  [Click here to download ](https://visualstudio.microsoft.com/downloads/)
 - Now Setup your Visual Studio Code for windows click here to visit website for setup --> [Link 1](https://www.javatpoint.com/how-to-run-a-c-program-in-visual-studio-code) |   [Link 2](https://ludwiguer.medium.com/configure-visual-studio-code-to-compile-and-run-c-c-3cef24b4f690) 
+- <i><b>Download and Install Compiler Extension</b></i> : A MinGW is an advanced GCC compiler software used to compile and execute code. It is software that supports only the window operating system. --> [Click here to download](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download)
 
 - Online Compiler
     - [onlinegdb](https://www.onlinegdb.com/)
