@@ -6,6 +6,6 @@ int main()
     float area, circum;
     area = pi * r * r;
     circum = 2 * pi * r;
-    printf("Area of circle is %f\n", area);
-    printf("Circum of circle is %f", circum);
+    printf("Area of circle is : %f\n", area);
+    printf("Circum of circle is : %f", circum);
 }
