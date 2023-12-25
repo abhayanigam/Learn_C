@@ -1,29 +1,38 @@
-#include <stdio.h>
+// C program to find 
+// transpose of a matrix 
 
-int main()
-{
-  int m, n, c, d, matrix[10][10], transpose[10][10];
+#include <stdio.h> 
+#define N 4 
 
-  printf("Enter the number of rows and columns of a matrix\n");
-  scanf("%d%d", &m, &n);
-  printf("Enter elements of the matrix\n");
+// This function stores transpose of A[][] in B[][] 
+void transpose(int A[][N], int B[][N]) 
+{ 
+	int i, j; 
+	for (i = 0; i < N; i++) 
+		for (j = 0; j < N; j++) 
+			B[i][j] = A[j][i]; 
+} 
 
-  for (c = 0; c < m; c++)
-    for (d = 0; d < n; d++)
-      scanf("%d", &matrix[c][d]);
+// Driver code 
+int main() 
+{ 
+	int A[N][N] = { { 1, 1, 1, 1 }, 
+					{ 2, 2, 2, 2 }, 
+					{ 3, 3, 3, 3 }, 
+					{ 4, 4, 4, 4 } }; 
 
-  for (c = 0; c < m; c++)
-    for (d = 0; d < n; d++)
-      transpose[d][c] = matrix[c][d];
+	// Note dimensions of B[][] 
+	int B[N][N], i, j; 
 
-  printf("Transpose of the matrix:\n");
+	// Function call 
+	transpose(A, B); 
 
-  for (c = 0; c < n; c++)
-  {
-    for (d = 0; d < m; d++)
-      printf("%d\t", transpose[c][d]);
-    printf("\n");
-  }
+	printf("Result matrix is \n"); 
+	for (i = 0; i < N; i++) { 
+		for (j = 0; j < N; j++) 
+			printf("%d ", B[i][j]); 
+		printf("\n"); 
+	} 
 
-  return 0;
+	return 0; 
 }
